@@ -1,7 +1,8 @@
 # 🎤 Text-To-Speech (TTS) Project
 
 Convert stories from **JSON files** into speech with support for **Arabic** and **English**.  
-
+- Support for standard female voice.
+  
 ---
 
 ## 📚 Features
@@ -9,8 +10,6 @@ Convert stories from **JSON files** into speech with support for **Arabic** and 
 - Detect language automatically from the filename.
 - Search stories by keyword in the title.
 - Generate audio files (`.mp3`) for each story.
-- Support for multiple voices (standard + cartoon style for kids).
-- Support for standard female voice.
 
 ---
 
