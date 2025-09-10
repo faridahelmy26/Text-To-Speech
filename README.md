@@ -1,7 +1,6 @@
 # 🎤 Text-To-Speech (TTS) Project
 
 Convert stories from **JSON files** into speech with support for **Arabic** and **English**.  
-All generated audio files are saved automatically inside the `audio_stories/` folder.
 
 ---
 
@@ -11,7 +10,7 @@ All generated audio files are saved automatically inside the `audio_stories/` fo
 - Search stories by keyword in the title.
 - Generate audio files (`.mp3`) for each story.
 - Support for multiple voices (standard + cartoon style for kids).
-- Organized output in a dedicated folder.
+- Support for standard female voice.
 
 ---
 
